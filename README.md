@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **blockchain project**
 
-- 🤝 I’m looking for help with **a next.Js project**
+- 🤝 I’m looking for help with **solidity**
 
 - 💬 Ask me about **React, Next.js,**
 
